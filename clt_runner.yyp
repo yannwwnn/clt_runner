@@ -35,6 +35,8 @@
   },
   "name":"clt_runner",
   "resources":[
+    {"id":{"name":"nt_anotacoes","path":"notes/nt_anotacoes/nt_anotacoes.yy",},},
+    {"id":{"name":"nt_devlog","path":"notes/nt_devlog/nt_devlog.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",

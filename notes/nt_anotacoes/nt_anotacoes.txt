@@ -1,0 +1,42 @@
+Quantas telas existem no jogo?
+- Cutscene
+- Tela da gameplay
+- Tela de Game over
+- Tela de vitória
+
+O que são essas telas?
+
+Qual elementos compõe essas telas?
+- Cutscene
+	arte passando
+	um texto embaixo falando que espaço pula - não sei se é da sprite
+Qual o fluxo do jogo?
+Cutscene > partida > game over > partida > game over > partida > Vitória
+
+Qual o objetivo do jogo?
+- Coletar a comida enquanto o jogo fica cada vez mais rápido
+
+Que obstáculos estão impedindo o jogador de realizar seu objetivo?
+- As carteiras de trabalho
+
+Que regras estão definindo como o jogo vai ser jogado?
+- O player só consegue trocar as calçadas em que ele está: esquerda ou direita
+- O player pega a comida quando passa por ela
+- O player perde instantaneamente se pegar uma carteira
+
+Explique como o jogo é jogado (como ele deveria ser jogado)
+- O player usa o A e o D pra controlar qual o caminho que o player deve seguir
+- Ele precisa desviar das carteiras e coletar as comidas
+- Pra ganhar, ele deve comer 20 lanches
+
+=== ETAPAS DA PROGRAMAÇÃO ===
+Programando o player
+	importando as sprites
+	criando o objeto do player
+	criando as keybinds
+	programando a mudança de direção
+	criando a colisão
+
+Programando o background
+	colocar os sprites no fundo
+	tentar entender como o fundo se movimenta
