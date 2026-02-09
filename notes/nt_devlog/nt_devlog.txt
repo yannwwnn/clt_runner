@@ -1,3 +1,7 @@
 09/02/2026 - 18:28
 Acabei de abrir o projeto e o repositório.
 Entrei no jogo do none agora e vou analisar tudo que precisar, aí coloco a mão na massa.
+
+18:39
+Vi mais ou menos como o jogo funciona, vou começar a programar as coisas básicas do player, 
+vou fazer o primeiro commit do repositório.

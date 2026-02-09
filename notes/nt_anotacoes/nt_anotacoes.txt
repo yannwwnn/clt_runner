@@ -31,9 +31,10 @@ Explique como o jogo é jogado (como ele deveria ser jogado)
 
 === ETAPAS DA PROGRAMAÇÃO ===
 Programando o player
-	importando as sprites
-	criando o objeto do player
-	criando as keybinds
+	importando as sprites - FEITO
+	criando o objeto do player - FEITO
+	criando as keybinds e eventos
+		
 	programando a mudança de direção
 	criando a colisão
 
