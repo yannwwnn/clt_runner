@@ -5,3 +5,8 @@ Entrei no jogo do none agora e vou analisar tudo que precisar, aí coloco a mão
 18:39
 Vi mais ou menos como o jogo funciona, vou começar a programar as coisas básicas do player, 
 vou fazer o primeiro commit do repositório.
+
+19:00
+Comecei a fazer a movimentação básica do player, programei os eventos principais.
+No jogo original não tem, mas fiz com que o caminho até o outro lado seja visto, e não seja teleportado
+Vou dar commit agora, vou começar a programar a colisão do player com as calçadas

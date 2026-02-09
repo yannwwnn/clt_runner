@@ -39,8 +39,10 @@
   "resources":[
     {"id":{"name":"nt_anotacoes","path":"notes/nt_anotacoes/nt_anotacoes.yy",},},
     {"id":{"name":"nt_devlog","path":"notes/nt_devlog/nt_devlog.yy",},},
+    {"id":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},},
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
     {"id":{"name":"spr_player_pulo","path":"sprites/spr_player_pulo/spr_player_pulo.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
