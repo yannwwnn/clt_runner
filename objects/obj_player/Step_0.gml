@@ -36,3 +36,5 @@ if (hspeed == 0) // Se não está indo para nenhum dos lados
 	// Muda para a sprite dele correndo
 	sprite_index = spr_player;
 }
+
+show_debug_message(global.pontos)

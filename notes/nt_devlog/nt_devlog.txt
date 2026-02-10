@@ -40,3 +40,11 @@ Ou então posso só duplicar o objeto do spawner e fazer outro, acho que isso é
 Basicamente, toda vez que o alarm do spawn toca, uma função choose escolhe se vai spawnar na direita ou na esquerda.
 Dependendo do valor, o imagexscale da instancia inverte e a posição também. Fiquei feliz de ter pensado dessa maneira e ter dado certo.
 Vou dar um commit antes de fazer o spawner das comidas.
+
+17:12
+Dei uma pausa pra descansar um pouco. Depois continuei programando.
+Fiz tudo o resto que faltava, sistema de pontos, pontos na tela (básico),
+a room de história, de gameover e de venceu.
+Tudo ta funcionando perfeitamente. Agora vou dar uma polida no jogo, adicionar sons,
+transições e uma música de fundo.
+Vou dar um commit agora.

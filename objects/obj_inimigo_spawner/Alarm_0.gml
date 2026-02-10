@@ -27,8 +27,9 @@ else
 {
 	_criado.image_xscale = 1;
 }
-// Diminuindo um pouco o tempo
-tempo -= 0.08;
+// Definindo o novo tempo do alarme
+
+var _tempo = choose(1, 1.3, 1.7);
 
 // Fazendo o alarme tocar de novo
-alarm[0] = 60 * tempo;
+alarm[0] = 60 * _tempo;

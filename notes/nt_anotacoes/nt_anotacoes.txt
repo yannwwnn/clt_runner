@@ -48,7 +48,27 @@ Programando a carteira de trabalho
 	quando o player colidir com ela, reiniciar a room - FEITO
 
 Progamando o spawn das carteiras de trabalho
-	Criar um objeto que vai ser responsável pelo spawn
-		Primeiro ele escolhe em qual lado da tela vai spawnar
-		Segundo ele escolhe com que frequência vai spawnar (usar alarme)
-		
+	Criar um objeto que vai ser responsável pelo spawn - FEITO
+		Primeiro ele escolhe em qual lado da tela vai spawnar - FEITO
+		Segundo ele escolhe com que frequência vai spawnar (usar alarme) - FEITO
+	Criando a mecânica de spawnar - FEITO
+
+Programando as comidas
+	Importando todas as sprites - FEITO
+	Criando o objeto da comida - FEITO
+	Quando o player colidir com ela, aumentar a variável global de comidas coletadas e destruir a instância - FEITO
+		(talvez colocar um som ???)
+	Caso ela saia da room por baixo, deletar a instancia - FEITO
+
+Programando o spawn das comidas
+	Mesma coisa que o spawn da carteira de trabalho, 
+	vou só criar um código pro jogo aleatoriamente escolher uma sprite pra comida. - FEITO
+
+Programando uma tela de morte que fala quantas comidas foram pegas
+	criando a room - FEITO
+	colocando um background nela - FEITO
+	criando um texto - FEITO
+	criando um botão pra jogar de novo - FEITO
+	criando um botão base, que muda dependendo do tipo - FEITO
+
+	
