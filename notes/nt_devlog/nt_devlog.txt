@@ -33,3 +33,10 @@ Criei uma variável global que vai tratar da velocidade de tudo que vai se mover
 também criei outra que vai tratar da aceleração de tudo, a ideia é fazer que tudo fique mais rápido.
 Vou dar um commit e vou começar a programar a lógica de spawn da carteira.
 
+15:10
+Fiz toda a lógica da carteira e consegui construir um spawn de qualidade, que spawna cada vez mais rápido.
+Tava pensando, talvez que possa usar uma variável de asset e definir se vou spawnar um objeto ou uma comida.
+Ou então posso só duplicar o objeto do spawner e fazer outro, acho que isso é melhor.
+Basicamente, toda vez que o alarm do spawn toca, uma função choose escolhe se vai spawnar na direita ou na esquerda.
+Dependendo do valor, o imagexscale da instancia inverte e a posição também. Fiquei feliz de ter pensado dessa maneira e ter dado certo.
+Vou dar um commit antes de fazer o spawner das comidas.

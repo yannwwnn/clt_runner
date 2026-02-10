@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_carteira",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_carteira",
   "overriddenProperties":[],
@@ -9,7 +11,10 @@
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_tudo_que_mexe",
+    "path":"objects/obj_tudo_que_mexe/obj_tudo_que_mexe.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
