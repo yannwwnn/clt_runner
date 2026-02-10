@@ -3,6 +3,6 @@ acel = 0.5;
 vel_impulso = 1;
 
 // Definindo algumas variáveis
-indo_direita = false;
+indo_direita = true;
 indo_esquerda = false;
-esta_chao = true;
+esta_chao = false;

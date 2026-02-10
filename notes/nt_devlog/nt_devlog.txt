@@ -26,3 +26,10 @@ O player parava um pouco antes do chao e ficava flutuando, acho que isso acontec
 quanto fazer as colisões por código, não vejo a hora de aprender desse jeito.
 Agora, finalmente, a movimentação do player e a colisão com as calçadas estão (praticamente) perfeitas.
 Vou dar um commit e tentar programar a movimentação do fundo.
+
+10/02/2026 - 14:35
+Consegui fazer o sistema do fundo se mover e comecei a trabalhar com o inimigo.
+Criei uma variável global que vai tratar da velocidade de tudo que vai se mover,
+também criei outra que vai tratar da aceleração de tudo, a ideia é fazer que tudo fique mais rápido.
+Vou dar um commit e vou começar a programar a lógica de spawn da carteira.
+

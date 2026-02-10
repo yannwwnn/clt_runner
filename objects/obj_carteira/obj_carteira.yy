@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_chao",
+  "%Name":"obj_carteira",
   "eventList":[],
   "managed":true,
-  "name":"obj_chao",
+  "name":"obj_carteira",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_chao",
-    "path":"sprites/spr_chao/spr_chao.yy",
+    "name":"spr_carteira",
+    "path":"sprites/spr_carteira/spr_carteira.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

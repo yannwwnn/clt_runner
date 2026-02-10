@@ -38,5 +38,17 @@ Programando o player
 	criando a colisão - FEITO
 
 Programando o background
-	colocar os sprites no fundo
-	tentar entender como o fundo se movimenta
+	colocar os sprites no fundo - FEITO
+	tentar entender como o fundo se movimenta - FEITO
+	programar a movimentação do fundo - FEITO
+
+Programando a carteira de trabalho
+	importando as sprites - FEITO
+	criando o objeto - FEITO
+	quando o player colidir com ela, reiniciar a room - FEITO
+
+Progamando o spawn das carteiras de trabalho
+	Criar um objeto que vai ser responsável pelo spawn
+		Primeiro ele escolhe em qual lado da tela vai spawnar
+		Segundo ele escolhe com que frequência vai spawnar (usar alarme)
+		
