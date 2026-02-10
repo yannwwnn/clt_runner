@@ -33,10 +33,9 @@ Explique como o jogo é jogado (como ele deveria ser jogado)
 Programando o player
 	importando as sprites - FEITO
 	criando o objeto do player - FEITO
-	criando as keybinds e eventos
-		
-	programando a mudança de direção
-	criando a colisão
+	criando as keybinds e eventos - FEITO
+	programando a mudança de direção - FEITO
+	criando a colisão - FEITO
 
 Programando o background
 	colocar os sprites no fundo

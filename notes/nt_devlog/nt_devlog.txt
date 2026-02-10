@@ -10,3 +10,19 @@ vou fazer o primeiro commit do repositório.
 Comecei a fazer a movimentação básica do player, programei os eventos principais.
 No jogo original não tem, mas fiz com que o caminho até o outro lado seja visto, e não seja teleportado
 Vou dar commit agora, vou começar a programar a colisão do player com as calçadas
+
+19:50
+A colisão deu tudo certo, passou quase 50 minutos, eu me perdi nos repositórios e quase perdi o projeto todo.
+Fiquei esse tempo todo quebrando a cabeça sobre como usar o repositório do jeito certo.
+No fim, acho que salvei todas as alterações do jeito certo, só esqueci de salvar o devlog antes de dar commit.
+Vou tentar lembrar de dar ctrl + s toda vez antes de dar commit.
+Acho que a movimentação do player e as colisões tão todas corretas, só preciso resolver alguns bugs agora.
+Entre eles: Quando já tô no chão e aperto na direção do chão, a sprite inverte no chão. Consigo trocar de direção no ar.
+
+21:55
+Fazer esse sistema de fazer o player ir de um lado ao outro foi um tiro no pé, fiquei MUITO tempo tentando resolver o bug.
+Eu consegui resolver os dois bugs anteriores mas depois apareceu um outro ainda pior.
+O player parava um pouco antes do chao e ficava flutuando, acho que isso acontece pq os eventos não são tão precisos
+quanto fazer as colisões por código, não vejo a hora de aprender desse jeito.
+Agora, finalmente, a movimentação do player e a colisão com as calçadas estão (praticamente) perfeitas.
+Vou dar um commit e tentar programar a movimentação do fundo.

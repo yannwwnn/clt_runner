@@ -3,5 +3,8 @@
 indo_direita = false;
 indo_esquerda = false;
 
+// Voltou para o chão
+esta_chao = true;
+
 // O player não tem mais velocidade
-speed = 0;
+hspeed = 0;
