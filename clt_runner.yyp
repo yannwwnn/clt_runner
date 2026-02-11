@@ -41,6 +41,7 @@
   },
   "name":"clt_runner",
   "resources":[
+    {"id":{"name":"fnt_fonte","path":"fonts/fnt_fonte/fnt_fonte.yy",},},
     {"id":{"name":"nt_anotacoes","path":"notes/nt_anotacoes/nt_anotacoes.yy",},},
     {"id":{"name":"nt_devlog","path":"notes/nt_devlog/nt_devlog.yy",},},
     {"id":{"name":"obj_carteira","path":"objects/obj_carteira/obj_carteira.yy",},},
@@ -62,6 +63,10 @@
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
     {"id":{"name":"rm_venceu","path":"rooms/rm_venceu/rm_venceu.yy",},},
     {"id":{"name":"scr_inicializacao","path":"scripts/scr_inicializacao/scr_inicializacao.yy",},},
+    {"id":{"name":"snd_gameover","path":"sounds/snd_gameover/snd_gameover.yy",},},
+    {"id":{"name":"snd_musica_principal","path":"sounds/snd_musica_principal/snd_musica_principal.yy",},},
+    {"id":{"name":"snd_pegar","path":"sounds/snd_pegar/snd_pegar.yy",},},
+    {"id":{"name":"snd_venceu","path":"sounds/snd_venceu/snd_venceu.yy",},},
     {"id":{"name":"spr_batata","path":"sprites/spr_batata/spr_batata.yy",},},
     {"id":{"name":"spr_carteira","path":"sprites/spr_carteira/spr_carteira.yy",},},
     {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},},

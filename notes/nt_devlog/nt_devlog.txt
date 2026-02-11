@@ -48,3 +48,8 @@ a room de história, de gameover e de venceu.
 Tudo ta funcionando perfeitamente. Agora vou dar uma polida no jogo, adicionar sons,
 transições e uma música de fundo.
 Vou dar um commit agora.
+
+21:11
+Acabei tudo que precisava, o jogo não ta perfeito, aquele bug infernal da colisão com o chão voltou.
+Tirando isso, gostei do jogo que eu fiz, vou dar o último commit.
+Obrigado a todos que estão lendo!
